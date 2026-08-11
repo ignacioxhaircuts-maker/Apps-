@@ -1,0 +1,6 @@
+{
+  "name": "YellowCartoon TV Premium",
+  "description": "Ultimate Cartoon, Live IPTV, Torrent P2P, DVD & Media Player for Mobile and Android TV with Gradient Yellow and Orange Xuper TV design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
